@@ -20,7 +20,7 @@ The report in this example groups orders by day of the week taken from the order
 
 - [Group Data by Days of the Week](https://docs.devexpress.com/XtraReports/5751)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-group-by-days-of-week&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-group-by-days-of-week&~~~was_helpful=no)
 
